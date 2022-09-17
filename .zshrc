@@ -79,6 +79,7 @@ zsh-autosuggestions
 sudo
 web-search
 macos
+brew
 )
 
 source $ZSH/oh-my-zsh.sh
