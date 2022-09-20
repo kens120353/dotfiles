@@ -6,5 +6,6 @@ export PATH="$PATH:$HOME/.rvm/bin"
 
 export PATH=$PATH:/$HOME/go/bin
 export GOPATH=$HOME/go
+export GOBIN=$HOME/go/bin
 export PATH=$PATH:$GOPATH/bin
 
